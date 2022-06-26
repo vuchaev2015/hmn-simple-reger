@@ -1,16 +1,9 @@
 ![](https://github.com/uchaev508/hmn-simle-reger/blob/c505ddb5474af705f0579edf20ce6d2370428ae7/logos/logo-360x180.png?raw=true)
 
-![](https://img.shields.io/github/stars/uchaev508/hmn-simle-reger) ![](https://img.shields.io/github/forks/uchaev508/hmn-simle-reger) ![](https://img.shields.io/github/issues/uchaev508/hmn-simle-reger)
+![](https://img.shields.io/github/stars/uchaev508/hmn-simle-reger) ![](https://img.shields.io/github/forks/uchaev508/hmn-simle-reger) ![]](https://img.shields.io/github/issues/uchaev508/hmn-simle-reger)
 
-
-**Содержание**
-
-[TOCM]
-
-[TOC]
-
-### Что требуется для начала?
-
+- [Что требуется для начала?](что-требуется-для-начала)
+  * [Инструкция по эксплуатации проекта для чайников времен до н.э.](инструкция-по-эксплуатации-проекта-для-чайников-времен-до-нэ)
 
 1. Прямые руки
 ![](https://media.istockphoto.com/photos/two-hands-with-palms-facing-up-picture-id153180923?k=20&m=153180923&s=612x612&w=0&h=ZFG_DjtuLs2VDkxL42KwMP3i1OR9Oa2dYcnl5_TauHc=)
