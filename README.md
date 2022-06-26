@@ -1,6 +1,6 @@
 ![](https://github.com/uchaev508/hmn-simle-reger/blob/c505ddb5474af705f0579edf20ce6d2370428ae7/logos/logo-360x180.png?raw=true)
 
-![](https://img.shields.io/github/stars/uchaev508/hmn-simle-reger) ![](https://img.shields.io/github/forks/uchaev508/hmn-simle-reger) ![]](https://img.shields.io/github/issues/uchaev508/hmn-simle-reger)
+![](https://img.shields.io/github/stars/uchaev508/hmn-simle-reger) ![](https://img.shields.io/github/forks/uchaev508/hmn-simle-reger) ![](https://img.shields.io/github/issues/uchaev508/hmn-simle-reger)
 
 
 **Содержание**
