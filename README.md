@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/stars/uchaev508/hmn-simle-reger) ![](https://img.shields.io/github/forks/uchaev508/hmn-simle-reger) ![](https://img.shields.io/github/issues/uchaev508/hmn-simle-reger)
 
-- [Актуальный функционал](актуальный-функционал)
+- [Актуальный функционал](README.md/#актуальный-функционал)
 - [Что требуется для начала?](что-требуется-для-начала)
   * [Инструкция по эксплуатации проекта для чайников времен до н.э.](инструкция-по-эксплуатации-проекта-для-чайников-времен-до-нэ)
 
