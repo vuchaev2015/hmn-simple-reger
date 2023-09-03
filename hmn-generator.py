@@ -1,6 +1,6 @@
 import requests
 
-url = 'https://https://hidemy.io/ru/demo/'
+url = 'https://hidemy.io/ru/demo/'
 
 if 'Ваша электронная почта' in requests.get(url).text:
     
