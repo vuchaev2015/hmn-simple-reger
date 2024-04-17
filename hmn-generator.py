@@ -1,3 +1,5 @@
+from os import system
+system('pip3 install fake-useragent requests')
 import requests
 from fake_useragent import UserAgent
 
